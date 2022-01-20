@@ -1,6 +1,6 @@
 
-<p style="align: center">
-  <img alt="VashCry" height="auto" width="10%" style="border-radius:100px;" src="https://cdn.discordapp.com/attachments/914223860059095079/933719890777477230/2Q.png">
+<p>
+  <img alt="VashCry" height="auto" width="10%" style="border-radius:100px; align: center;" src="https://cdn.discordapp.com/attachments/914223860059095079/933719890777477230/2Q.png">
 </p>
 
 ### Olá! Eu David Santos, atualmente desenvolvedor <(＿　＿)>
@@ -30,8 +30,6 @@
 </div>
   
 ##
-  
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
   
 <div align="center">
   
