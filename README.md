@@ -1,7 +1,7 @@
 <div style="display: inline_block"><br>
   <img align="right" alt="PepeFrog" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/914223860059095079/933719890777477230/2Q.png">
 
-### Olá! Eu David Santos, atualmente desenvolvedor <(＿　＿)>
+### Olá! Eu sou David Santos, atualmente desenvolvedor <(＿　＿)>
 
 - 💻 Sei um pouquinho de algumas linguagens.
 - 📱 Tô aprendendo Flutter no tempo livre.
