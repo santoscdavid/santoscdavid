@@ -12,14 +12,9 @@
       
   </div>
 </div>
-    
-<div align="center" style="margin-top:20px; margin-bottom:20px">
-  <a href="https://github.com/DSantos69">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DSantos69&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSantos69&layout=compact&langs_count=8&theme=radical&count_private=true"/>
-  </a>
-</div>
-  
+
+
+
 <div style="display: inline-block" align="center">
   <img align="center" alt="Html-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Css-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -31,7 +26,16 @@
   <img align="center" alt="Dotnet-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Dart-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <img align="center" alt="Flutter-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  </div>
+</div><br>
+
+
+<div align="center" style="margin-top:20px; margin-bottom:20px">
+  <a href="https://github.com/DSantos69">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DSantos69&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSantos69&layout=compact&langs_count=8&theme=radical&count_private=true"/>
+  </a>
+</div>
+  
   
 <div align="center"> 
   
