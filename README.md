@@ -4,7 +4,7 @@
   <div style="margin-left: 20px">
     
   ### Olá! Eu sou David Santos ヾ(•ω•`)o
-  Atualmente desenvolvedor Jr. nos seguintes frameworks Vue.js, Node.js e .NET   
+  Atualmente desenvolvedor Jr. nos seguintes frameworks: Vue.js, Node.js e .NET   
       
     
       💻 Sempre em constante aprendizado.
