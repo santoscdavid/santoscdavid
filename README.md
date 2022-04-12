@@ -1,10 +1,12 @@
 <div style="display: inline_block"><br>
-  <img align="right" alt="PepeFrog" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/914223860059095079/933719890777477230/2Q.png">
+  <img align="left" alt="PepeFrog" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/914223860059095079/933719890777477230/2Q.png">
+  ### Olá! Eu sou David Santos, atualmente desenvolvedor Jr nos seguintes frameworks Vue.js, Node.js e .NET   
+  <img align="right" alt="PepeFrog" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/914238610239270972/933716818177196062/pepefrog.gif">
 
-### Olá! Eu sou David Santos, atualmente desenvolvedor <(＿　＿)>
 
-- 💻 Sei um pouquinho de algumas linguagens.
-- 📱 Tô aprendendo Flutter no tempo livre.
+- 💻 Sempre em constante aprendizado.
+- 👨‍👧‍👦 Gosto de passar um boa impressão por onde passo.
+  
 </div>
   
 ##
@@ -26,8 +28,7 @@
   <img align="center" alt="Dotnet-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Dart-Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <img align="center" alt="Flutter-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="right" alt="PepeFrog" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/914238610239270972/933716818177196062/pepefrog.gif">
-</div>
+  </div>
   
 ##
   
