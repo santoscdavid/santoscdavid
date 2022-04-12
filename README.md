@@ -1,8 +1,11 @@
 <div style="display: inline_block"><br>
   <img align="left" alt="PepeFrog" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/914223860059095079/933719890777477230/2Q.png">
   
+  <div style="margin-left: 20px">
+    
   ### Olá! Eu sou David Santos, atualmente desenvolvedor Jr nos seguintes frameworks Vue.js, Node.js e .NET   
-  
+    
+  </div>
 
 
 - 💻 Sempre em constante aprendizado.
