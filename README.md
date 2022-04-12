@@ -1,27 +1,27 @@
-<div style="display: inline_block"><br>
-  <img align="left" alt="PepeFrog" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/914223860059095079/933719890777477230/2Q.png">
+<div style="display: inline-block">
+  <img align="left" alt="PepeFrog" height="150" style="border-radius:50px;margin-top:100px;" src="https://cdn.discordapp.com/attachments/914223860059095079/933719890777477230/2Q.png">
   
   <div style="margin-left: 20px">
     
-  ### Olá! Eu sou David Santos, atualmente desenvolvedor Jr nos seguintes frameworks Vue.js, Node.js e .NET   
+  ### Olá! Eu sou David Santos
+  Atualmente desenvolvedor Jr nos seguintes frameworks Vue.js, Node.js e .NET   
+      
     
+      💻 Sempre em constante aprendizado.
+      👨‍👧‍👦 Gosto de passar um boa impressão por onde passo.
+      
   </div>
-
-
-- 💻 Sempre em constante aprendizado.
-- 👨‍👧‍👦 Gosto de passar um boa impressão por onde passo.
-  
 </div>
   
 ##
   
-<div align="center">
+<div align="center" style="margin-top:20px">
   <a href="https://github.com/DSantos69">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DSantos69&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSantos69&layout=compact&langs_count=6&theme=radical&count_private=true"/>
 </div>
 
-<div style="display: inline_block"><br>
+<div style="display: inline-block" align="center">
   <img align="center" alt="Html-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Css-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
