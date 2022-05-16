@@ -31,8 +31,8 @@
 
 <div align="center" style="margin-top:20px; margin-bottom:20px">
   <a href="https://github.com/DSantos69">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DSantos69&theme=radical&include_all_commits=true&count_private=true&show_icons=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSantos69&layout=compact&langs_count=12&theme=radical&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DSantos69&theme=dark&include_all_commits=true&count_private=true&show_icons=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DSantos69&layout=compact&langs_count=12&theme=dark&count_private=true"/>
   </a>
 </div>
   
