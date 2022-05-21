@@ -8,7 +8,7 @@
       
     
       💻 Sempre em constante aprendizado.
-      👨‍👧‍👦 Gosto de passar um boa impressão por onde passo.
+      👨‍👧‍👦 Gosto de passar uma boa impressão por onde passo.
       
   </div>
 </div>
