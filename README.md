@@ -1,10 +1,9 @@
 <div style="display: inline-block">
-  <img align="left" alt="PepeFrog" height="150" style="border-radius:50px;margin-top:100px;" src="https://cdn.discordapp.com/attachments/914223860059095079/933719890777477230/2Q.png">
   
-  <div style="margin-left: 20px">
+  
     
-  ### Olá! Eu sou David Santos ヾ(•ω•`)o
-  Atualmente desenvolvedor Jr. nos seguintes frameworks: Vue.js, Node.js e .NET   
+  ### Olá! Eu sou David Cavalcante dos Santos ヾ(•ω•`)o
+  Atualmente desenvolvedor Jr. nos seguintes frameworks: Vue.js, React.js, Node.js e .NET.
       
     
       💻 Sempre em constante aprendizado.
@@ -15,7 +14,7 @@
 
 
 
-<div style="display: inline-block" align="center">
+<div style="display: inline-block" align="center" style="margin-top:20px; margin-bottom:20px">
   <img align="center" alt="Html-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Css-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
