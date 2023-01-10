@@ -3,7 +3,7 @@
   
     
   ### Olá! Eu sou David Cavalcante dos Santos ヾ(•ω•`)o
-  Atualmente desenvolvedor Jr. nos seguintes frameworks: Vue.js, React.js, Node.js e .NET.
+  Atualmente desenvolvedor Jr. nos seguintes frameworks: Vue.js, React.js e Node.js.
       
     
       💻 Sempre em constante aprendizado.
