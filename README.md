@@ -1,17 +1,12 @@
 <div style="display: inline-block">
-  
-  
     
-  ### Olá! Eu sou David Cavalcante dos Santos ヾ(•ω•`)o
-  Atualmente desenvolvedor Jr. nos seguintes frameworks: Vue.js, React.js e Node.js.
-      
-    
-      💻 Sempre em constante aprendizado.
-      👨‍👧‍👦 Gosto de passar uma boa impressão por onde passo.
-      
-  </div>
+  ## Olá! Eu sou David Cavalcante dos Santos ヾ(•ω•`)o
+  
+ > _Um simples entusiasta de tecnologia com grandes sonhos_
+            
 </div>
 
+<br/>
 
 
 <div style="display: inline-block" align="center" style="margin-top:20px; margin-bottom:20px">
