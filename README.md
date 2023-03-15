@@ -4,7 +4,7 @@
 
 - 💼 Atualmente trabalhando com desenvolvimento mobile
 - 📚 Em constante estudo e aprendizado em Javascript
-- 💻 Já trabalhei com .NET, Vue, React
+- 💻 Já trabalhei com .NET, Vue, React, Flutter e Node
 - 💭 Sempre querendo aprender algo novo
 
 <br/>
