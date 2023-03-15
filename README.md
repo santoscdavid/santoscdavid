@@ -1,5 +1,7 @@
 # Olá, eu sou David Santos
 
+> Um entusiasta de tecnologia sempre aspirando aprender mais nesse mundo enorme.
+
 - 💼 Atualmente trabalhando com desenvolvimento mobile
 - 📚 Em constante estudo e aprendizado em Javascript
 - 💻 Já trabalhei com .NET, Vue, React
