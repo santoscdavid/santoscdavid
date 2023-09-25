@@ -1,6 +1,6 @@
 # Olá, eu sou David Santos
 
-> Um entusiasta de tecnologia sempre aspirando aprender mais nesse mundo enorme.
+> Um entusiasta de tecnologia sempre aspirando aprender cada vez mais sobre ela.
 
 - 💼 Atualmente trabalhando com desenvolvimento mobile
 - 📚 Em constante estudo e aprendizado em Javascript
