@@ -2,10 +2,9 @@
 
 > Um entusiasta de tecnologia sempre aspirando aprender cada vez mais sobre ela.
 
-- 💼 Atualmente trabalhando com desenvolvimento mobile
-- 📚 Em constante estudo e aprendizado em Javascript
-- 💻 Já trabalhei com .NET, Vue, React, Flutter e Node
-- 💭 Sempre querendo aprender algo novo
+Sou Técnico em Informática e estudante de Ciência da Computação, com experiência no desenvolvimento de softwares. Estou constantemente em busca de aprimorar meus conhecimentos na área de tecnologia e me esforço para deixar uma boa impressão em todos os ambientes pelos quais passo.
+
+Atualmente, atuo como Desenvolvedor Mobile, focado em Flutter, desenvolvendo aplicativos híbridos com código limpo e arquitetura escalável. Possuo experiência com os frameworks Vue.js, React.js, Node.js e .NET, além de sólida familiaridade com bancos de dados SQL e NoSQL. Também tenho conhecimento em versionamento de código utilizando GitHub e GitLab, além de experiência com metodologias ágeis como Scrum e Kanban.
 
 <br/>
 
